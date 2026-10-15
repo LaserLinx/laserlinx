@@ -29,7 +29,7 @@ Here are some of the key projects I have worked on, ranging from commercial web 
 * **[Clean Model Portfolio](https://www.nikolraklova.cz/en/)** — *Full-Stack Developer*
   A sleek, high-performance, and elegant personal portfolio website built for a professional model.
 * **[NTrials (Minecraft Mod)](https://www.curseforge.com/minecraft/mc-mods/ntrials)** — *Java Developer*
-  A highly successful Minecraft mod backport built using Java and Forge, achieving **over 200,000+ downloads**. Developed in collaboration with [MaxTechnik3796](https://github.com/MaxTechnik3796/mtcl).
+  A highly successful Minecraft mod backport built using Java and Forge, achieving **over 200,000+ downloads**. Developed in collaboration with [MaxTechnik3796](https://github.com/MaxTechnik3796/).
 
 ---
 
