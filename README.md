@@ -80,13 +80,3 @@ Here are some of the key projects I have worked on, ranging from commercial web 
   <a href="https://instagram.com/just_real_adam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:adambartos.dev@proton.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=laserlinx&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center"><i>⭐️ Designed and developed by <a href="https://github.com/laserlinx">Adam Bartoš</a></i></p>
