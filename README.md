@@ -24,6 +24,8 @@ Here are some of the key projects I have worked on, ranging from commercial web 
 
 - **[NoteSmith](https://github.com/LaserLinx/NoteSmith)** — *Creator & Core Developer*
   A custom-built, open-source application focused on efficient note-taking and productivity, showcasing clean architecture and modern development practices.
+- **[BoxedIn](https://github.com/LaserLinx/BoxedIn)** — *Creator & Core Developer*
+A custom-built C# application showcasing clean architecture, robust software design, and modern development practices.
 - **[SavageLab](https://savagelab.app/)** — *Lead Developer*
   An advanced AI model platform featuring automated content generation, Model Context Protocol support, and seamless Telegram bot integration.
 - **[Bevents (Cruise Web Page)](https://www.bevents.cz/)** — *Full-Stack Developer*
