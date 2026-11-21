@@ -28,8 +28,6 @@ Here are some of the key projects I have worked on, ranging from commercial web 
 A custom-built C# application showcasing clean architecture, robust software design, and modern development practices.
 - **[Bevents (Cruise Web Page)](https://www.bevents.cz/)** — *Full-Stack Developer*
   A professional commercial platform for booking and managing events. Developed in collaboration with [Vojtěch Fáber](https://vojtechfaber.cz/).
-- **[Clean Model Portfolio](https://www.nikolraklova.cz/en/)** — *Full-Stack Developer*
-  A sleek, high-performance, and elegant personal portfolio website built for a professional model.
 - **[NTrials (Minecraft Mod)](https://www.curseforge.com/minecraft/mc-mods/ntrials)** — *Java Developer*
   A highly successful Minecraft mod backport built using Java and Forge, achieving **over 200,000+ downloads**. Developed in collaboration with [MaxTechnik3796](https://github.com/MaxTechnik3796/).
 
